@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAKLAS01", "SAKLAS01\SAKLAS01.csproj", "{DFE617C2-3E9A-4C3B-9BEA-A8D8983823D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE617C2-3E9A-4C3B-9BEA-A8D8983823D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE617C2-3E9A-4C3B-9BEA-A8D8983823D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE617C2-3E9A-4C3B-9BEA-A8D8983823D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE617C2-3E9A-4C3B-9BEA-A8D8983823D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044C00B3-27F0-40A3-9972-4CD1B37937A2}
+	EndGlobalSection
+EndGlobal

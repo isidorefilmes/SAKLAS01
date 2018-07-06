@@ -1,0 +1,7 @@
+what time is it|WhatTime
+tell me the time|WhatTime
+what date is it|WhatDate
+tell me the date|WhatDate
+shutdown|ShutDown
+shutdown computer|Shutdown
+restart|Restart
